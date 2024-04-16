@@ -1,0 +1,2 @@
+# LegalAi
+GenAI legal copilot
